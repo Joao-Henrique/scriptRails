@@ -6,5 +6,7 @@
 * Enter in new folder
 <code>cd scriptRails</code><br>
 
+<code>sudo chmod +x  installRubyonRails.sh</code>
+
 * Execute the command
 <code>sudo ./installRubyonRails.sh</code>
